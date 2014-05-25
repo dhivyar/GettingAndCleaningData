@@ -4,7 +4,8 @@
 * "subject" - Test volunteers
 * "activityPerformed" - The activities that the test volunteers performed
 
-* In the below set of variables t stands for time and f for frequency
+### In the below set of variables t stands for time (units- sec) and f for frequency (units- Hz)
+
 * "tBodyAccmeanX" - Mean of body's acceleration along X
 * "tBodyAccmeanY" - Mean of body's acceleration along Y
 * "tBodyAccmeanZ" - Mean of body's acceleration along Z
